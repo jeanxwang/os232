@@ -11,5 +11,8 @@ I once coded it just like how I usually write a text. Then I found it should've 
 * [Operating System Concepts](https://www.os-book.com/OS10/) ---
 OS main book.
 Everything about operating system is in this bundle.
+* [Log Codes](https://osp4diss.vlsm.org/ETC/logCodes.txt) ---
+Log codes for `mylog.txt`.
+Creating log with correct codes.
 <br>
 <hr>
