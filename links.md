@@ -14,5 +14,7 @@ Everything about operating system is in this bundle.
 * [Log Codes](https://osp4diss.vlsm.org/ETC/logCodes.txt) ---
 Log codes for `mylog.txt`.
 Creating log with correct codes.
+* [Recording Week03: C Programming](https://www.youtube.com/watch?v=F_o4mjBVbio) ---
+A video of C programming 
 <br>
 <hr>
