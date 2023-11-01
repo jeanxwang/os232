@@ -34,3 +34,8 @@ ZCZC W05 200 L02 OS Offline Class
 ZCZC W05 250 L06 GSGS OS related
 ZCZC W05 300 L09 Doing OS and other subjects assignments
 ZCZC W05 10 L41 Updating this mylog.txt
+ZCZC W06 60 L01 Replying SCELE forum, POP QUIZ
+ZCZC W06 200 L02 OS Offline Class
+ZCZC W06 250 L06 GSGS OS related
+ZCZC W06 300 L09 Doing OS and other subjects assignments
+ZCZC W06 10 L41 Updating this mylog.txt
