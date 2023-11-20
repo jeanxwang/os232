@@ -18,6 +18,7 @@ Creating log with correct codes.
 A video of C programming
 * [Linux Crash Course - Easy Terminal Commands for Inspecting Hardware](https://youtu.be/oGyJr-iUwt8?si=59V2boc0XfmlFekg) --- Some easy-to-use commands you can use to inspect hardware. These commands will help you list PCI devices, view information about your CPU, and more.
 * [Raspberry Pi](https://www.raspberrypi.org/) --- A fun website to explore about coding
+* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.0/) --- A guide to build Linux from scratch to be suitable for you
 
 <br>
 <hr>
