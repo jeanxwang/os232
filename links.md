@@ -20,6 +20,7 @@ A video of C programming
 * [Raspberry Pi](https://www.raspberrypi.org/) --- A fun website to explore about coding
 * [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.0/) --- A guide to build Linux from scratch to be suitable for you
 * [Kernotex's YouTube LFS 12.0 PlayList](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) --- A playlist of the implementation of LFS
+* [Previous Final Test Problems](https://rms46.vlsm.org/2/204.pdf) -- Exercise for OS students especially those who are considering to take the final test
 
 <br>
 <hr>
